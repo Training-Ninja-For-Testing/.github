@@ -53,10 +53,13 @@ Formamos testers desde cero hasta nivel profesional con nuestros programas perso
 
 | Proyecto | Framework | Estado | Lenguaje |
 |-----------|------------|---------|-----------|
-| [qax-automation-web-robot-framework](https://github.com/Training-Ninja-For-Testing/qax-automation-web-robot-framework) | Robot Framework | ![status](https://img.shields.io/badge/status-active-success?style=flat-square) | ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=flat-square) |
+| [qax-automation-web-robot-framework](https://github.com/Training-Ninja-For-Testing/qax-automation-web-robot-framework) | Robot Framework | ![status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=flat-square) |
+| [qax-automation-apis-robot-framework](https://github.com/Training-Ninja-For-Testing/qax-automation-apis-robot-framework) | Robot Framework | ![status](https://img.shields.io/badge/status-active-success?style=flat-square) | ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=flat-square) |
 | [qax-automation-apis-rest-assured](https://github.com/Training-Ninja-For-Testing/qax-automation-apis-rest-assured) | Rest Assured | ![status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | ![Java](https://img.shields.io/badge/Java-orange?logo=java&style=flat-square) |
-| [qax-automation-web-playwright](https://github.com/Training-Ninja-For-Testing/qax-automation-web-playwright) | Playwright | ![status](https://img.shields.io/badge/status-updated-brightgreen?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
-| [qax-automation-apis-karate](https://github.com/Training-Ninja-For-Testing/qax-automation-apis-karate) | Karate DSL | ![status](https://img.shields.io/badge/status-stable-blue?style=flat-square) | ![Java](https://img.shields.io/badge/Java-orange?logo=java&style=flat-square) |
+| [qax-automation-web-selenium](https://github.com/Training-Ninja-For-Testing/qax-automation-web-selenium) | Serenity BBD | ![status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | ![Java](https://img.shields.io/badge/Java-orange?logo=java&style=flat-square) |
+| [qax-automation-web-playwright](https://github.com/Training-Ninja-For-Testing/qax-automation-web-playwright) | Playwright | ![status](https://img.shields.io/badge/status-updated-brightgreen?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=red&style=flat-square) |
+| [qax-automation-apis-karate](https://github.com/Training-Ninja-For-Testing/qax-automation-apis-karate) | Karate Lab | ![status](https://img.shields.io/badge/status-stable-blue?style=flat-square) | ![Java](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=green&style=flat-square) |
+| [qax-automation-apis-postman-newman](https://github.com/Training-Ninja-For-Testing/qax-automation-apis-postman-newman) | Postman | ![status](https://img.shields.io/badge/status-stable-blue?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=orange&style=flat-square) |
 
 ---
 
