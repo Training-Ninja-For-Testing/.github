@@ -1,3 +1,8 @@
+<!-- Banner principal -->
+<p align="center">
+  <img src="https://github.com/Training-Ninja-For-Testing/.github/assets/banner-qaxpert.png" alt="QAXpert - Ninja For Testing" width="100%">
+</p>
+
 # 🥷 Welcome to **Ninja For Testing** by [QAXpert](https://qaxpert.com)
 
 🚀 Comunidad internacional de testers y automatizadores que aprenden haciendo.  
