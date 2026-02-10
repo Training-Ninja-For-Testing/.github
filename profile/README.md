@@ -53,6 +53,7 @@ Formamos testers desde cero hasta nivel profesional con nuestros programas perso
 
 | Proyecto | Framework | Estado | Lenguaje |
 |-----------|------------|---------|-----------|
+| [qax-automation-web-robot-framework](https://github.com/Training-Ninja-For-Testing/qax-automation-mobile-robot-framework) | Robot Framework | ![status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=flat-square) |
 | [qax-automation-web-robot-framework](https://github.com/Training-Ninja-For-Testing/qax-automation-web-robot-framework) | Robot Framework | ![status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=flat-square) |
 | [qax-automation-apis-robot-framework](https://github.com/Training-Ninja-For-Testing/qax-automation-apis-robot-framework) | Robot Framework | ![status](https://img.shields.io/badge/status-active-success?style=flat-square) | ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=flat-square) |
 | [qax-automation-apis-rest-assured](https://github.com/Training-Ninja-For-Testing/qax-automation-apis-rest-assured) |  Serenity BDD | ![status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | ![Java](https://img.shields.io/badge/Java-orange?logo=java&style=flat-square) |
