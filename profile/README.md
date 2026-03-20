@@ -85,4 +85,4 @@ Formamos testers desde cero hasta nivel profesional con nuestros programas perso
 
 ---
 
-© 2025 QAXpert Academy | Ninja For Testing 🥷
+© 2026 QAXpert Academy | Ninja For Testing 🥷
